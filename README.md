@@ -4,4 +4,11 @@
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![image]()
+
+<img src="Screenshot_1.png" alt="PrintScrean">
+
+>Esse projeto se baseia em uma simples lista de tarefas que foi feita com o intuito de aprender como interagir com o banco de dados e melhorar meu uso de bootstrap
+
+## Link de acesso
+
+<a href="https://rm14680.herokuapp.com/">https://rm14680.herokuapp.com/</a>
