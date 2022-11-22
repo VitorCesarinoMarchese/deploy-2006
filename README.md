@@ -12,3 +12,7 @@
 ## Link de acesso
 
 <a href="https://rm14680.herokuapp.com/">https://rm14680.herokuapp.com/</a>
+
+## 📝 Licença
+
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
