@@ -9,10 +9,6 @@
 
 >Esse projeto se baseia em uma simples lista de tarefas que foi feita com o intuito de aprender como interagir com o banco de dados e melhorar meu uso de bootstrap
 
-## Link de acesso
-
-<a href="https://rm14680.herokuapp.com/">https://rm14680.herokuapp.com/</a>
-
 ## 📝 Licença
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
