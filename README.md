@@ -10,9 +10,6 @@
 <img src="assets/images/mainpage.png" alt="ToDoPage">
 <img src="assets/images/ToDoList.png" alt="ToDoPage">
 
-
->Esse projeto se baseia em uma simples lista de tarefas que foi feita com o intuito de aprender como interagir com o banco de dados e melhorar meu uso de bootstrap
-
 ## 📝 Licença
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
